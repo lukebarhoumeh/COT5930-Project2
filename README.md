@@ -1,9 +1,9 @@
 # COT 5930 - Project 2
 
-**Name:** Ibrahim Luke Barhoumeh Z23652726
-**Date:** February 17, 2025  
-**Professor:** Andrade
-**Cloud Run URL** https://imaging-app-856239458079.us-east1.run.app
+##**Name:** Ibrahim Luke Barhoumeh Z23652726
+##**Date:** February 17, 2025  
+##**Professor:** Andrade
+##**Cloud Run URL** https://imaging-app-856239458079.us-east1.run.app
 
 
 ## Overview
