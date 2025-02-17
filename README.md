@@ -2,7 +2,7 @@
 
 **Name:** Ibrahim Luke Barhoumeh Z23652726
 **Date:** February 17, 2025  
-**Professor:** [Andrade]
+**Professor:** Andrade
 
 ## Overview
 
