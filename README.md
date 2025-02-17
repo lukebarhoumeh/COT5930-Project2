@@ -66,11 +66,7 @@ This project builds upon Project 1 by extending our knowledge of **Cloud Run**, 
 - **Cost Considerations**: Storing images and calling the AI for large volumes might get expensive for millions of users.  
 - **Single-Region**: Currently, Gemini only runs in `us-central1`, while our bucket/app is in `us-east1`. This introduces some cross-region traffic.
 
-## Where to Improve for Millions of Users
-- **Caching**: We could add a caching layer if the same image is uploaded multiple times (less likely).  
-- **Parallel Processing**: If we anticipate high concurrency, move AI calls into a task queue or asynchronous architecture.  
-- **Load Testing & Observability**: Integrate Cloud Monitoring/Logging in more detail, plus potential error-handling for large images or timeouts.  
-- **Multi-Region or CDN**: Place buckets or replicate them across multiple regions for lower latency and resilience.
+
 
 ## Deployment Instructions
 
